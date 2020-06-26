@@ -8,11 +8,10 @@ Install dependencies:
 ```
 npm install
 ```
-```
-
 Run:
 ```
 npm run start
+```
 ```
 A simple API, created with express js. Use Postman, Talend API tester, or other for testings.
 
