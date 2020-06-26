@@ -7,14 +7,12 @@ git clone https://github.com/gnieto11/time-zones.git
 Install dependencies:
 ```
 npm install
-
 ```
 ```
 
 Run:
 ```
 npm run start
-
 ```
 A simple API, created with express js. Use Postman, Talend API tester, or other for testings.
 
