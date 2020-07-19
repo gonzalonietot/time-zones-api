@@ -1,4 +1,7 @@
 # Time zones
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/maktub82.svg?style=social&label=Follow)](https://twitter.com/gonzalonietot)
+
 Clone Project:
 ```
 git clone https://github.com/gnieto11/time-zones.git
